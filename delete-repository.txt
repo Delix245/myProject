@@ -44,6 +44,3 @@ Please commit your changes or stash them before you switch branches.
 
 Ты изменил файл delete-repository.txt, и если сейчас переключиться на другую ветку
  — изменения потеряются. Git просит сохранить
-
-
- надо зак
